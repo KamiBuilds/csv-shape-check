@@ -1,0 +1,4 @@
+name,role,note
+Ada,maintainer,"checks commas, quotes and records"
+Zoë,volunteer,"first line
+second line with ""quoted text"""
